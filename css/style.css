@@ -1,0 +1,30 @@
+
+
+body{
+  background-image: url(Sea\ picture.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+div{
+  margin: 20px auto;
+  padding: 20px 350px;
+}
+
+label{
+  color: rgb(146, 236, 11);
+  font-size: 20px;
+}
+
+.sub{
+  background-color: #c9d2fc;
+  width: 150px;
+  height: 50px;
+  border-radius: 20px;
+  cursor: pointer;
+}
